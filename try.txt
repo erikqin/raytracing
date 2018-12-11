@@ -1,0 +1,4 @@
+DON'T DETELE THIS ROW!! Please enter the lens parameters for each surface. Each surface corresponds to one column. For each row, please enter 5 data (refractive index of d, f, c wavelengths, radius of curvature, and thickness). Please use one space to separate each data in a row.
+1.516798 1.522368 1.514318 62.5 4.0
+1.672670 1.687522 1.666612 -43.65 2.5
+1 1 1 -124.35 10000000000
