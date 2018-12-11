@@ -15,7 +15,7 @@ For off-axis objects, it calculates height of image for:
 1) full field/full aperture, full field/negative aperture, 
 2) full field/0 aperture, full field/0.707 aperture, full field/negative 0.707 aperture
 3) 0.707 field/full aperture, 0.707 field/negative full aperture, 0.707 field/0 aperture,
-4) 0.707 field/0.707 aperture, 0.707 field/negative 0.707 aperture
+4) 0.707 field/0.707 aperture, 0.707 field/negative 0.707 aperture,
 for d, f, c lights respectively.
 
 
